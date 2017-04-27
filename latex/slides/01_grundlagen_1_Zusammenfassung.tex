@@ -1,0 +1,64 @@
+% The Slide Definitions
+\input{../templates/course_definitions}
+
+% Author and Course information
+\input{../templates/course_information}
+
+% Presentation title
+\title{Grundlagen von C\texttt{\#} - 1 (Zusammenfassung)}
+\date{\today}
+
+\usepackage{subfig}
+\begin{document}
+
+\maketitle
+
+% ----------------------- Über den Kurs ------------------------------
+\begin{frame}{Über diesen Kurs}
+	\centering 11 Kurseinheiten und viele Aufgaben.
+	
+	Ostern wird über das Semester nachgeholt.
+	
+	\vspace{0.7cm}
+	\centering Die Materialien findet ihr hier:
+	
+	\huge \href{https://evilham.com/csharp2017}{evilham.com/csharp2017}
+
+\end{frame}
+
+% ----------------------- Warum C#? ------------------------------
+\begin{frame}{Warum C\texttt{\#} und wohin?}
+C\texttt{\#} kann alles! Einige Möglichkeiten:
+\begin{itemize}
+\item Autodesk \href{https://en.wikipedia.org/wiki/AutoCAD}{AutoCAD}, \href{https://en.wikipedia.org/wiki/Revit}{Revit} Plugins Entwicklung
+\item \href{https://dev.office.com/}{Microsoft Office} Plugins Entwicklung
+\item Desktop GUI Programmierung mit \href{https://en.wikipedia.org/wiki/Windows_Forms}{Windows Forms} oder \href{http://www.wpf-tutorial.com/about-wpf/what-is-wpf/}{WPF}
+\item \href{https://en.wikipedia.org/wiki/Network_socket}{Netzwerk Protokolle} mit reinem C\texttt{\#}
+\item Webserver Programmierung mit \href{https://www.asp.net/}{ASP.net}
+\item Android Programmierung mit \href{https://en.wikipedia.org/wiki/Xamarin}{Xamarin}
+\item Cross-Platform Entwicklung mit \href{https://dot.net}{.Net Core}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Autodesk? AutoCAD? Revit?}
+\href{https://en.wikipedia.org/wiki/Autodesk}{Autodesk} ist eine Avantgarde Software Firma, ihr Software wird in viele Bereichen verwendet: Architektur, Maschinenbau, Hoch- und Tiefbau, Filmindustrie, Automotive...
+
+Erweiterungssoftware für \alert{AutoCAD} oder \alert{Revit} ist immer in Nachfrage.
+
+\begin{figure}
+    \centering
+    \subfloat[\href{https://twitter.com/AutoCAD/status/857685795376959492}{Infrastruktur}]{{\includegraphics[width=5cm]{resources/01_grundlagen_1/autocad1.jpg} }}
+    \qquad
+    \subfloat[\href{https://twitter.com/AutoCAD/status/854020636351582209}{Maschinenbau}]{{\includegraphics[width=5cm]{resources/01_grundlagen_1/autocad2.jpg} }}%
+    \caption{Things done with Autodesk's products\\
+    (Source: \href{https://twitter.com/autocad}{https://twitter.com/autocad})}%
+    \label{fig:example}
+\end{figure}
+
+\end{frame}
+
+% ----------------------- Erinnerung -----------------------------
+\begin{frame}{Hello World}
+    \lstinputlisting{resources/01_grundlagen_1/zusammenfassung.cs}
+\end{frame}
+\end{document}
