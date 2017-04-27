@@ -1,12 +1,13 @@
 # Site settings
 title: C# Lesson Exercises
-email: programmierung@ifsr.de
+email: contact@evilham.com
 description: >
   Rendered exercise descriptions for the C# lessons
-baseurl: "/csharp-lessons" # the subpath of your site, e.g. /blog/
-url: "http://fsr.github.io/" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-github_username: fsr
+baseurl: "/csharp-lessons"
+url: "https://evilham.github.io/"
+slides_url: https://evilham.com/media/csharp/de
+twitter_username: CyborgEvilham
+github_username: evilham
 
 # Build settings
 markdown: kramdown

@@ -2,57 +2,62 @@ slides:
   -
     number: 1
     name: Grundlagen 1
-    url: https://ifsr.de/kurs-materialien/csharp/01_grundlagen_1.pdf
+    url: 01_grundlagen_1.pdf
+    published: True
+  -
+    number: 1a
+    name: Grundlagen 1 - Zusammenfassung
+    url: 01_grundlagen_1_Zusammenfassung.pdf
     published: True
   -
     number: 2
     name: Grundlagen 2
-    url: https://ifsr.de/kurs-materialien/csharp/02_grundlagen_2.pdf
+    url: 02_grundlagen_2.pdf
     published: True
   -
     number: 3
     name: Objektorientierung
-    url: https://ifsr.de/kurs-materialien/csharp/03_objektorientierung.pdf
+    url: 03_objektorientierung.pdf
     published: True
   -
     number: 4
     name: Wichtige Prinzipien
-    url: https://ifsr.de/kurs-materialien/csharp/04_wichtige_prinzipien.pdf
-    published: True
+    url: 04_wichtige_prinzipien.pdf
+    published: False
   -
     number: 5
     name: Exceptions und Vererbung
-    url: https://ifsr.de/kurs-materialien/csharp/05_exceptions_und_vererbung.pdf
-    published: True
+    url: 05_exceptions_und_vererbung.pdf
+    published: False
   -
     number: 6
     name: Collections Generics und besondere Klassen
-    url: https://ifsr.de/kurs-materialien/csharp/06_collections_generics_und_besondere_klassen.pdf
-    published: True
+    url: 06_collections_generics_und_besondere_klassen.pdf
+    published: False
   -
     number: 7
     name: Datenstrukturen
-    url: https://www.ifsr.de/kurs-materialien/csharp/07_datenstrukturen.pdf
-    published: True
+    url: 07_datenstrukturen.pdf
+    published: False
   -
     number: 8
     name: Methoden (fortgeschritten) 1
-    url: https://ifsr.de/kurs-materialien/csharp/08_methoden_fortgeschritten_1.pdf
-    published: True
+    url: 08_methoden_fortgeschritten_1.pdf
+    published: False
   -
     number: 9
     name: Methoden (fortgeschritten) 2
-    url: https://ifsr.de/kurs-materialien/csharp/09_methoden_fortgeschritten_2.pdf
-    published: True
+    url: 09_methoden_fortgeschritten_2.pdf
+    published: False
   -
     number: 10
     name: Weiteres
-    url: https://www.ifsr.de/kurs-materialien/csharp/10_weiteres.pdf
-    published: True
+    url: 10_weiteres.pdf
+    published: False
   -
     number: 11
     name: Windows Forms
-    url: https://www.ifsr.de/kurs-materialien/csharp/11_windows_forms.pdf
+    url: 11_windows_forms.pdf
     published: False
 
 
