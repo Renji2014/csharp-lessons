@@ -9,7 +9,7 @@ namespace HelloWorld
             int p = 3;
             x = do_stuff(p); // Impl. Cast int --> double
             p = (int)x; // Expl. Cast double 
-                        //                 --> _nearest_ int
+                        //          --> next int direction 0
             Console.WriteLine(string.Format(
                     "p is now 4: {0}, x is 4: {1}", p, x));
             Console.ReadKey(); // Sonst ist die Konsole weg!
