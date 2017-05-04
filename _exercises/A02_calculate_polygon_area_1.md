@@ -4,12 +4,10 @@ number: 2
 status: finished
 authors: marc
 lesson: 2
+solution_code: lesson_02/A02_polygon_area_1
 ---
 
-Calculate the area of a polyon given with a set of points (2D) to represent its vertices.[^solution]
-
-[^solution]:
-    You can find the solution to this task [Here](https://github.com/satkowski/csharp-lessons-exercise-solutions/tree/master/lesson_02/A02_polygon_area_1/ExerciseSolution/).
+Calculate the area of a polyon given with a set of points (2D) to represent its vertices.
 
 ### Step 1
 

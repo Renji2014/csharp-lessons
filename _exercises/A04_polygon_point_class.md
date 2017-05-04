@@ -4,12 +4,10 @@ number: 6
 status: finished
 authors: marc
 lesson: 3
+solution_code: lesson_03/A04_polygon_point_class
 ---
 
-We want to put the polygon and the euclidean distance exercise in own classes.[^solution]
-
-[^solution]:
-    You can find the solution to this task [Here](https://github.com/satkowski/csharp-lessons-exercise-solutions/tree/master/lesson_03/A04_polygon_point_class/ExerciseSolution/).
+We want to put the polygon and the euclidean distance exercise in own classes.
 
 ### Step 1
 
