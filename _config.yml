@@ -18,6 +18,7 @@ exclude:
   - .c9/
   - .git/
   - latex/
+  - code/
 
 keep_files:
   - code/
