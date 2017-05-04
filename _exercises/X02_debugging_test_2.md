@@ -4,12 +4,10 @@ number: 8
 status: finished
 authors: marc
 lesson: 3
+solution_code: lesson_03/X02_debugging_exercise_2
 ---
 
-There is a bug in the program given. Use the debugger and find the problem.[^solution]:    
-
-[^solution]:    
-    You can find the solution to this task [Here](https://github.com/satkowski/csharp-lessons-exercise-solutions/tree/master/lesson_03/X02_debugging_exercise_2/ExerciseSolution).
+There is a bug in the program given. Use the debugger and find the problem.
 
 ### Step 1
 

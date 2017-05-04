@@ -4,12 +4,10 @@ number: 3
 status: finished
 authors: marc
 lesson: 2
+solution_code: lesson_02/B01_search_title
 ---
 
-We have a arbitrary array of title for books or other stuff. We want to get the first title that the program can find from our own search query.[^solution]
-
-[^solution]:
-    You can find the solution to this task [Here](https://github.com/satkowski/csharp-lessons-exercise-solutions/tree/master/lesson_02/B01_search_title/ExerciseSolution/).
+We have a arbitrary array of title for books or other stuff. We want to get the first title that the program can find from our own search query.
     
 ### Step 1
 
