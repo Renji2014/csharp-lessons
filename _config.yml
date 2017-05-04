@@ -19,6 +19,9 @@ exclude:
   - .git/
   - latex/
 
+keep_files:
+  - code/
+
 defaults:
   -
     scope:
@@ -29,4 +32,6 @@ defaults:
 
 collections:
   exercises:
+    output: true
+  solutions:
     output: true
