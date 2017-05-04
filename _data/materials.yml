@@ -15,6 +15,11 @@ slides:
     url: 02_grundlagen_2.pdf
     published: True
   -
+    number: 2a
+    name: Grundlagen 2 - Zusammenfassung
+    url: 02_grundlagen_2_Zusammenfassung.pdf
+    published: True
+  -
     number: 3
     name: Objektorientierung
     url: 03_objektorientierung.pdf
@@ -23,7 +28,7 @@ slides:
     number: 4
     name: Wichtige Prinzipien
     url: 04_wichtige_prinzipien.pdf
-    published: False
+    published: True
   -
     number: 5
     name: Exceptions und Vererbung
