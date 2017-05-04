@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: post
+title: Exercises
 ---
 
 <div class="home">
@@ -8,7 +9,7 @@ layout: default
   
   <p>
     <b>The solutions of the exercises can be found on <a href="https://github.com/{{github_username}}{{base_url}}/tree/gh-pages/solutions">GitHub</a></b><br>
-    All exercises have assigned a letter corresponding the type of excercise.
+    All exercises have assigned a letter corresponding the type of exercise.
   </p>
   <ul>
     <li>A - Geometric Shapes, Points various calculations.</li>
