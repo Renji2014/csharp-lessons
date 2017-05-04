@@ -38,6 +38,19 @@ layout: default
             {% endif %}
           {% endfor %}
       {% endif %}</p>
+	  <p class="post-meta">
+	  {% if page.solution_code or page.solution_page %}
+	  Solution:
+	  {% if page.solution_page %}
+	    <a href="{{ site.baseurl }}/solutions/{{page.solution_page}}">Explanation</a>
+	  {% endif %}
+	  {% if page.solution_code and page.solution_page %} | {% endif %}
+	  {% if page.solution_code %}
+	    <a href="https://github.com/{{site.github_username}}{{ site.baseurl }}/tree/gh-pages/code/{{page.solution_code}}">
+		  Explanation</a>
+	  {% endif %}	  
+	  {% endif %}
+	  </p>
   </header>
 
   <article class="post-content">

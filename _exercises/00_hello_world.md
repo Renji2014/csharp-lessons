@@ -4,12 +4,10 @@ number: 0
 status: finished
 authors: [marc]
 lesson: 1
+solution_code: lesson_01/hello_world
 ---
 
-Create a programm that tells us `Hello World`.[^solution]
-
-[^solution]:
-    You can find the solution to this task [Here](https://github.com/satkowski/csharp-lessons-exercise-solutions/tree/master/lesson_01/hello_world/ExerciseSolution/).
+Create a programm that tells us `Hello World`.
 
 ### Step 1
 
