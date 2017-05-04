@@ -6,10 +6,9 @@
     <h2>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
         {% if post.lesson %}
-          {{ post.lesson }}
-        {% else %}{% if post.number %}
+          Lesson {{ post.lesson }}
+        {% else %}#{% if post.number %}
           {{ post.number }}
-        {% else %}#
         {% endif %}
         {% endif %}: {{ post.title }}
         &nbsp;&nbsp;
