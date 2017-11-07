@@ -7,6 +7,10 @@ lesson: 2
 solution_code: lesson_02/X01_debugging_exercise_1
 ---
 
+The given program is supposed to calculate the sum of all natural numbers
+between 0 and 1000 (included),
+that are multiple of 5 or multiple of 3 but *not of both*.
+
 There is a bug in the program given. Use the debugger and find the problem.
 
 ### Step 1
